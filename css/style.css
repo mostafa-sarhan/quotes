@@ -1,0 +1,24 @@
+
+
+.demo {
+    background-color: tomato;
+    margin-top: 20%;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    min-height: 200px;
+    color: white;
+    font-family: "Caveat", cursive;
+    font-size: 30px;
+
+
+}
+.bttn{
+    border: none;
+    padding: 15px 20px;
+    border-radius: 10px;
+    background-color: aqua;
+    margin: auto;
+    display: block;
+}
